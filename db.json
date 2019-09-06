@@ -1,22 +1,76 @@
 {
 "list": [   
  {
-        "userId": 1,
         "id": 1,
-        "title": "sunt aut facere repellat provident occaecati excepturi optio reprehenderit",
-        "body": "quia et suscipit\nsuscipit recusandae consequuntur expedita et cum\nreprehenderit molestiae ut ut quas totam\nnostrum rerum est autem sunt rem eveniet architecto"
+        "name": "Ray Wenderlich",
+        "metAt": "RW Campus",
+        "contact": "228-40332240",
+        "email": "ray@razeware.com",
+        "facebook": "facebook.com/raywenderlich",
+        "twitter": "twitter.com/rwenderlich"
     },
     {
-        "userId": 2,
-        "id": 11,
-        "title": "et ea vero quia laudantium autem",
-        "body": "delectus reiciendis molestiae occaecati non minima eveniet qui voluptatibus\naccusamus in eum beatae sit\nvel qui neque voluptates ut commodi qui incidunt\nut animi commodi"
+        "id": 2,
+        "name": "Mark Tremonti",
+        "metAt": "Alter Bridge Concert",
+        "contact": "228-44012312",
+        "email": "mark@alterbridge.com",
+        "facebook": "facebook.com/tremonti",
+        "twitter":"twitter.com/TremontiAB"
     },
     {
-        "userId": 3,
-        "id": 21,
-        "title": "asperiores ea ipsam voluptatibus modi minima quia sint",
-        "body": "repellat aliquid praesentium dolorem quo\nsed totam minus non itaque\nnihil labore molestiae sunt dolor eveniet hic recusandae veniam\ntempora et tenetur expedita sunt"
+        "id": 3,
+        "name": "Jeff Bezos",
+        "metAt": "Amazon HQ",
+        "contact": "206-26622992",
+        "email": "j.bezos@amazon.com",
+        "facebook": "facebook.com/j.bezos",
+        "twitter": "twitter.com/Amazon",
+    },
+    {
+        "id": 4,
+        "name": "Mark Zuckerberg",
+        "metAt": "Facebook",
+        "contact": "228-41124312",
+        "email": "mark@facebook.com",
+        "facebook": "facebook.com/mz",
+        "twitter": "twitter.com/MarkZ"
+    },
+    {
+        "id": 5,
+        "name": "Bil Gates",
+        "metAt": "Microsoft HQ",
+        "contact": "206-24541837",
+        "email": "gates@microsoft.com",
+        "facebook": "facebook.com/b.gates",
+        "twitter": "twitter.com/MicrosoftUS"
+    },
+    {
+        "id": 6,
+        "name": "Tim Cook",
+        "metAt": "Apple, Cupertino",
+        "contact": "310-27753123",
+        "email": "cook@apple.com",
+        "facebook": "facebook.com/t.cook",
+        "twitter": "twitter.com/AppleCA"
+    },
+    {
+        "id": 7,
+        "name": "Sundar Pichai",
+        "metAt": "Google CA",
+        "contact": "310-46645322",
+        "email": "s.pichai@gmail.com",
+        "facebook": "facebook.com/s.pichai",
+        "twitter": "twitter.com/GoogleCEO"
+    },
+    {
+        "id": 8,
+        "name": "Elon Musk",
+        "metAt": "SpaceX Campus",
+        "contact": "310-35666875",
+        "email": "musk@spacex.com",
+        "facebook": "facebook.com/e.musk",
+        "twitter": "twitter.com/SpaceX"
     }
 ]
 }
